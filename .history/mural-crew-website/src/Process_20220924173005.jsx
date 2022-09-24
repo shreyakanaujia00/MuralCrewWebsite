@@ -27,7 +27,7 @@ class Process extends Component {
                     </p>
                     <Alert.Heading>4. Painting</Alert.Heading>
                     <p align="center">
-                    a. Now we paint! We paint using Behr wall paint or Benjamin-Moore wall paint. Our supplies are funded by generous grants from the Lexington High School Parent Teacher Organization. <br />
+                    a. Now we paint! We paint using Behr wall paint or Benjamin-Moore Wall paint. Our supplies are funded by generous grants from the Lexington High School Parent Teacher Organization. <br />
                     b. We begin by filling large blocks of color, then shading, and finally completing the fine details. <br />
                     c. This is the last step and the longest step of the mural painting process. <br />
                     </p>

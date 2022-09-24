@@ -23,11 +23,11 @@ class Process extends Component {
                     </p>
                     <Alert.Heading>3. Tracing</Alert.Heading>
                     <p align="center">
-                    a. The crew uses a projector to project the design onto the wall. We will trace the main features of the mural with a sharpie to serve as a guide while painting. For the most recent outdoor mural, the design was freehanded, and many parts of the Rumi mural were also freehanded, so this step is not necessary but is helpful for those less familiar with the design and newer crew members. <br />
+                    The crew uses a projector to project the design onto the wall. We will trace the main features of the mural with a sharpie to serve as a guide while painting. For the most recent outdoor mural, the design was freehanded, and many parts of the Rumi mural were also freehanded, so this step is not necessary but is helpful for those less familiar with the design and newer crew members. <br />
                     </p>
                     <Alert.Heading>4. Painting</Alert.Heading>
                     <p align="center">
-                    a. Now we paint! We paint using Behr wall paint or Benjamin-Moore wall paint. Our supplies are funded by generous grants from the Lexington High School Parent Teacher Organization. <br />
+                    a. Now we paint! We paint using Behr wall paint or Benjamin-Moore Wall paint. Our supplies are funded by generous grants from the Lexington High School Parent Teacher Organization. <br />
                     b. We begin by filling large blocks of color, then shading, and finally completing the fine details. <br />
                     c. This is the last step and the longest step of the mural painting process. <br />
                     </p>

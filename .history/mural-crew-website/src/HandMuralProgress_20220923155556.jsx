@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import { Carousel, Alert } from 'react-bootstrap';
 
 import HandMural from './Hand Mural.jpg'
-import OctopusMural from './Octopus Mural.jpeg'
 
 class HandMuralProgress extends Component {
     render () {
@@ -27,7 +26,7 @@ class HandMuralProgress extends Component {
                 <Carousel.Item>
                     <img
                     className="d-block w-100"
-                    src={OctopusMural}
+                    src={HandMural}
                     alt="Third slide"
                     />
                 </Carousel.Item>

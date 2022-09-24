@@ -15,19 +15,19 @@ class Process extends Component {
                     c. Designs can be both digital or hand drawn, but must ultimately become digital to help with tracing. <br />
                     </p>
                     <Alert.Heading>2. Base Coat</Alert.Heading>
-                    <p align="center">
+                    <p align="left">
                     a. Most walls need a base coat of white paint to let the vibrancy of the paint colors shine through. <br />
                     b. Outdoor murals need a primer so that paint will not erode and fall off. <br />
                     c. Mural Crew is committed to making murals that last, so we prime most walls and pick walls that are conducive to painting. <br />
                     d. We also tape the edges of the mural and lay tarps on the floor. <br />
                     </p>
                     <Alert.Heading>3. Tracing</Alert.Heading>
-                    <p align="center">
-                    a. The crew uses a projector to project the design onto the wall. We will trace the main features of the mural with a sharpie to serve as a guide while painting. For the most recent outdoor mural, the design was freehanded, and many parts of the Rumi mural were also freehanded, so this step is not necessary but is helpful for those less familiar with the design and newer crew members. <br />
+                    <p align="left">
+                    The crew uses a projector to project the design onto the wall. We will trace the main features of the mural with a sharpie to serve as a guide while painting. For the most recent outdoor mural, the design was freehanded, and many parts of the Rumi mural were also freehanded, so this step is not necessary but is helpful for those less familiar with the design and newer crew members. <br />
                     </p>
                     <Alert.Heading>4. Painting</Alert.Heading>
-                    <p align="center">
-                    a. Now we paint! We paint using Behr wall paint or Benjamin-Moore wall paint. Our supplies are funded by generous grants from the Lexington High School Parent Teacher Organization. <br />
+                    <p align="left">
+                    a. Now we paint! We paint using Behr wall paint or Benjamin-Moore Wall paint. Our supplies are funded by generous grants from the Lexington High School Parent Teacher Organization. <br />
                     b. We begin by filling large blocks of color, then shading, and finally completing the fine details. <br />
                     c. This is the last step and the longest step of the mural painting process. <br />
                     </p>

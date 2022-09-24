@@ -1,14 +1,12 @@
 import React, { Component } from 'react';
 import { Image, Alert } from 'react-bootstrap';
 import InstaLogo from './insta logo.png'
-import Logo from './mcMerchSize.png'
 
 class Contact extends Component {
     render () {
         return (
             <div>
             <h1 className="Title-thin">Contact the LHS Mural Crew</h1>
-                <Image className="aboutLogo" src={Logo} />
                 <Alert variant="dark" className='description'>
                     <Alert.Heading>Contact Us</Alert.Heading>
                     <p>
