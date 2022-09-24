@@ -8,7 +8,7 @@ import SpringMural from './Spring Mural.jpg'
 class Home extends Component {
     render () {
         return (
-            < className="background">
+            <>
             <h1 className="Title">LHS Mural Crew Gallery</h1>
                 <Card className="card">
                     <Card.Img variant="top" src={OctopusMural} />
