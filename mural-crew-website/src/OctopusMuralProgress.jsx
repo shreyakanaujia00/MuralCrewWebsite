@@ -1,7 +1,9 @@
 import React, { Component } from 'react';
 import { Image, Alert, Carousel } from 'react-bootstrap';
 
-import OctopusMural from './Octopus Mural.jpeg'
+import OctopusMural from './Images/Octopus0.jpeg'
+import Octopus1 from './Images/Octopus1.jpg'
+import Octopus2 from './Images/Octopus2.jpg'
 
 class OctopusMuralProgress extends Component {
     render () {
@@ -19,14 +21,14 @@ class OctopusMuralProgress extends Component {
                 <Carousel.Item>
                     <img
                     className="d-block w-100"
-                    src={OctopusMural}
+                    src={Octopus1}
                     alt="Second slide"
                     />
                 </Carousel.Item>
                 <Carousel.Item>
                     <img
                     className="d-block w-100"
-                    src={OctopusMural}
+                    src={Octopus2}
                     alt="Third slide"
                     />
                 </Carousel.Item>

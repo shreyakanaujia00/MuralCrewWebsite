@@ -1,7 +1,10 @@
 import React, { Component } from 'react';
 import { Carousel, Alert } from 'react-bootstrap';
 
-import SpringMural from './Spring Mural.jpg'
+import SpringMural from './Images/Spring0.jpg'
+import Spring1 from './Images/Spring1.jpg'
+import Spring2 from './Images/Spring2.jpg'
+import Spring3 from './Images/Spring3.jpg'
 
 class SpringMuralProgress extends Component {
     render () {
@@ -19,15 +22,22 @@ class SpringMuralProgress extends Component {
                 <Carousel.Item>
                     <img
                     className="d-block w-100"
-                    src={SpringMural}
+                    src={Spring1}
                     alt="Second slide"
                     />
                 </Carousel.Item>
                 <Carousel.Item>
                     <img
                     className="d-block w-100"
-                    src={SpringMural}
+                    src={Spring2}
                     alt="Third slide"
+                    />
+                </Carousel.Item>
+                <Carousel.Item>
+                    <img
+                    className="d-block w-100"
+                    src={Spring3}
+                    alt="Fourth slide"
                     />
                 </Carousel.Item>
                 </Carousel>

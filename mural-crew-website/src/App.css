@@ -1,10 +1,21 @@
 html {background-color: #cbe5f3}
-body {font-family: Montserrat;}
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+body {
+  font-family: 'Montserrat';
+  }
 
 .App {
   text-align: center;
-  background-color: #cbe5f3
+  background-color: #cbe5f3;
 }
+
+/*.Home {
+  text-align: center;
+  background-color: #cbe5f3;
+  background-image: url('lineart.jpg');
+  background-repeat: no-repeat;
+} */
+
 
 .App-logo {
   height: 40vmin;
@@ -64,11 +75,13 @@ body {font-family: Montserrat;}
 }
 
 .Gallery {
+  border: 2px solid #a4aaac;
   margin-left: 15%;
   margin-right: 15%;
 }
 
 .card {
+  border: 2px solid #a4aaac;
   background-color: #ddeff8;
   width: 50rem;
   display: block;

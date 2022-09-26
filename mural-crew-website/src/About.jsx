@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Image, Alert } from 'react-bootstrap';
-import Logo from './mcMerchSize.png'
+import Logo from './Images/logo.png'
 
 class About extends Component {
     render () {

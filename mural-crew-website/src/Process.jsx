@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Image, Alert } from 'react-bootstrap';
-import InstaLogo from './insta logo.png'
+import InstaLogo from './Images/insta logo.png'
 
 class Process extends Component {
     render () {

@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Navbar, Nav, NavDropdown, Container } from 'react-bootstrap';
-import Logo from './mcMerchSize.png'
+import Logo from './Images/logo.png'
 
 class Menu extends Component {
     render () {
@@ -19,6 +19,7 @@ class Menu extends Component {
                     <Nav.Link href="/">Home</Nav.Link>
                     <Nav.Link href="/About">About</Nav.Link>
                     <NavDropdown title="Murals" id="navbarScrollingDropdown">
+                        <NavDropdown.Item href="/Murals/FutureMural">Future Mural</NavDropdown.Item>
                         <NavDropdown.Item href="/Murals/AWalkinthePark">A Walk in the Park</NavDropdown.Item>
                         <NavDropdown.Item href="/Murals/TheCreationofScience">The Creation of Science</NavDropdown.Item>
                         <NavDropdown.Item href="/Murals/IntheGreatDeep">In the Great Deep</NavDropdown.Item>

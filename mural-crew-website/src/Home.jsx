@@ -1,16 +1,27 @@
 import React, { Component } from 'react';
 import { Card, Button } from 'react-bootstrap';
 
-import OctopusMural from './Octopus Mural.jpeg'
-import HandMural from './Hand Mural.jpg'
-import SpringMural from './Spring Mural.jpg'
-import RumiMural from './RumiMural.jpg'
+import OctopusMural from './Images/Octopus0.jpeg'
+import HandMural from './Images/Hand0.jpg'
+import SpringMural from './Images/Spring0.jpg'
+import RumiMural from './Images/Rumi0.jpg'
+import AbstractMural from './Images/Abstract0.jpg'
 
 class Home extends Component {
     render () {
         return (
-            <div>
+            <div /*className='Home'*/>
             <h1 className="Title">LHS Mural Crew Gallery</h1>
+            <Card className="card">
+                    <Card.Img variant="top" src={AbstractMural} />
+                    <Card.Body>
+                        <Card.Title>Sneak Peak: Not Yet Named!</Card.Title>
+                        <Card.Text>
+                        Not yet painted, but here's the design! Will be painted in the LHS World Language Building.
+                        </Card.Text>
+                        <Button variant="outline-primary" href="/Murals/FutureMural">See mural details here</Button>
+                    </Card.Body>
+                </Card>
                 <Card className="card">
                     <Card.Img variant="top" src={SpringMural} />
                     <Card.Body>

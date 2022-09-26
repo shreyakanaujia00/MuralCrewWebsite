@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
 import { Image, Alert, Carousel } from 'react-bootstrap';
 
-import RumiMural from './RumiMural.jpg'
+import RumiMural from './Images/Rumi0.jpg'
+import Rumi1 from './Images/Rumi1.jpg'
 
 class RumiMuralProgress extends Component {
     render () {
@@ -18,16 +19,9 @@ class RumiMuralProgress extends Component {
                 </Carousel.Item>
                 <Carousel.Item>
                     <img
-                    className="d-block w-100"
-                    src={RumiMural}
+                    className="d-block w-50"
+                    src={Rumi1} style={{marginLeft: "auto", marginRight: "auto", display: "flex", justifyContent: "center"}}
                     alt="Second slide"
-                    />
-                </Carousel.Item>
-                <Carousel.Item>
-                    <img
-                    className="d-block w-100"
-                    src={RumiMural}
-                    alt="Third slide"
                     />
                 </Carousel.Item>
                 </Carousel>

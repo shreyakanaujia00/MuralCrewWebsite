@@ -3,6 +3,7 @@ import { Routes, Route } from "react-router-dom";
 import "./App.css";
 
 import Home from './Home'
+import AbstractMuralProgress from './AbstractMuralProgress'
 import OctopusMuralProgress from './OctopusMuralProgress'
 import HandMuralProgress from './HandMuralProgress'
 import SpringMuralProgress from './SpringMuralProgress'
@@ -21,6 +22,7 @@ function App() {
         <Route exact path="/" element={<Home />} />
         <Route path="/About" element={<About />} />
         <Route path="/ContactUs" element={<Contact />} />
+        <Route path="/Murals/FutureMural" element={<AbstractMuralProgress />} />
         <Route path="/Murals/IntheGreatDeep" element={<OctopusMuralProgress />} />
         <Route path="/Murals/TheCreationofScience" element={<HandMuralProgress />} />
         <Route path="/Murals/AWalkinthePark" element={<SpringMuralProgress />} />

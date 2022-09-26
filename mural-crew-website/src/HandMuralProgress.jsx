@@ -1,8 +1,10 @@
 import React, { Component } from 'react';
 import { Carousel, Alert } from 'react-bootstrap';
 
-import HandMural from './Hand Mural.jpg'
-import OctopusMural from './Octopus Mural.jpeg'
+import HandMural from './Images/Hand0.jpg'
+import Hand1 from './Images/Hand1.jpg'
+import Hand2 from './Images/Hand2.jpg'
+import Hand3 from './Images/Hand3.jpg'
 
 class HandMuralProgress extends Component {
     render () {
@@ -20,15 +22,22 @@ class HandMuralProgress extends Component {
                 <Carousel.Item>
                     <img
                     className="d-block w-100"
-                    src={HandMural}
+                    src={Hand1}
                     alt="Second slide"
                     />
                 </Carousel.Item>
                 <Carousel.Item>
                     <img
                     className="d-block w-100"
-                    src={OctopusMural}
+                    src={Hand2}
                     alt="Third slide"
+                    />
+                </Carousel.Item>
+                <Carousel.Item>
+                    <img
+                    className="d-block w-100"
+                    src={Hand3}
+                    alt="Fourth slide"
                     />
                 </Carousel.Item>
                 </Carousel>
